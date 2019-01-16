@@ -1,0 +1,24 @@
+page-login {
+    .myview{
+      //background-image: url('../assets/imgs/bg.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+       // background-color: #ccc;
+   }
+   .item-md {
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+    font-size: 1.6rem;
+    font-weight: normal;
+    text-transform: none;
+    color: black;
+    background-color: transparent !important;
+   }
+   .button-md{
+       text-transform: capitalize;
+   }
+   .button-clear-md{
+       text-decoration: underline;
+   }
+}
